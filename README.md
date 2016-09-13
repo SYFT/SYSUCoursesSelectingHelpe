@@ -1,1 +1,1 @@
-# rSYSUCoursesSelectingHelpe
+# SYSUCoursesSelectingHelper
